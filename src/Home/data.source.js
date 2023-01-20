@@ -31,6 +31,7 @@ export const Nav00DataSource = {
             className: 'item-sub',
             children: {
               className: 'item-sub-item',
+              href: 'https://local-wongsatorn.netlify.app/',
               children: [
                 {
                   name: 'image0',
@@ -56,6 +57,7 @@ export const Nav00DataSource = {
             className: 'item-sub',
             children: {
               className: 'item-sub-item',
+              href: 'https://local-wongsatorn.netlify.app/',
               children: [
                 {
                   name: 'image0',
@@ -81,6 +83,7 @@ export const Nav00DataSource = {
             className: 'item-sub',
             children: {
               className: 'item-sub-item',
+              href: 'https://local-wongsatorn.netlify.app/',
               children: [
                 {
                   name: 'image0',
@@ -166,6 +169,7 @@ export const Banner30DataSource = {
       {
         name: 'button',
         className: 'banner3-button',
+        href: 'https://local-wongsatorn.netlify.app/',
         children: (
           <span>
             <p>Get Start</p>
