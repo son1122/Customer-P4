@@ -89,10 +89,6 @@ Netlify Deploy URL : [https://customer-wongsatorn.netlify.app/)
     
     3.7 Deply New Change
     
-<h2>Code Explain</h2>
-
-
-
 ## GA Question
 
 What would you do differently?
