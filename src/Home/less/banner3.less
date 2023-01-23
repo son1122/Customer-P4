@@ -10,6 +10,7 @@
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
+
   & &-text-wrapper {
     display: inline-block;
     position: absolute;
@@ -25,10 +26,12 @@
     font-size: 20px;
     line-height: 28px;
     font-weight: 400;
-    >.queue-anim-leaving {
+
+    > .queue-anim-leaving {
       position: relative !important;
     }
   }
+
   & &-slogan {
     font-size: 68px;
     line-height: 80px;
@@ -37,17 +40,20 @@
     margin: 26px auto 38px;
     overflow: hidden;
   }
+
   & &-name-en {
     display: block;
     font-size: 14px;
     line-height: 32px;
     font-weight: 400;
   }
+
   & &-name {
     font-size: 24px;
     overflow: hidden;
     opacity: 0.8;
   }
+
   & &-button {
     display: block;
     margin: 72px auto 0;
@@ -62,6 +68,7 @@
     height: 42px;
     border-radius: 42px;
   }
+
   & &-time {
     font-size: 14px;
     line-height: 24px;
@@ -72,18 +79,22 @@
 @media screen and (max-width: 767px) {
   .@{banner3} {
     background-attachment: inherit;
+
     & &-text-wrapper {
       width: 90%;
       height: 50%;
     }
+
     & &-name-en {
       font-size: 12px;
     }
+
     & &-slogan {
       font-size: 24px;
       line-height: 1.5;
       margin: 12px 0;
     }
+
     & &-name {
       font-size: 14px;
     }
