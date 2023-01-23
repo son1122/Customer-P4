@@ -93,7 +93,8 @@ Netlify Deploy URL : [https://customer-wongsatorn.netlify.app/)
 
 What would you do differently?
 
-    1.Add more customization to UI/UX
+    1. Add more customization to UI/UX
+    2. Add more Detail
 
 What are you most proud of?
 
